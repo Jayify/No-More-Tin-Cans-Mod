@@ -1,0 +1,10 @@
+# Ignore compiled files and VS temporary files
+bin/
+obj/
+.vs/
+ModLoader/
+tModLoader/
+*.csproj.user
+*.db
+*.dll
+*.pdb
